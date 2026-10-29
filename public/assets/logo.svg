@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none" role="img" aria-label="SignaCheck AI">
+  <rect width="40" height="40" rx="10" fill="#1d4ed8"/>
+  <path d="M8 26c3-6 5-12 7-12s-1 10 2 10 4-8 6-8-1 6 1 6 3-3 4-4" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="31" cy="12" r="4.5" fill="#22c55e"/>
+  <path d="M29 12l1.5 1.5L33 11" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
